@@ -28,7 +28,7 @@ function ContactPage() {
       name: ' Ananya Srivastava',
       email: 'ananyasrivastava402@gmail.com'
       phone: '9555730915',
-      imageUrl: '/assest/sarthak.jpeg.jpg', 
+      imageUrl: '/assest/ananya.jpg', 
       instagramUrl: 'https://www.instagram.com/__ananya_sri/',
       linkedinUrl: 'https://www.linkedin.com/in/ananya-srivastava-764238245/',
       gmailUrl: 'mailto:ananyasrivastava402@gmail.com'
