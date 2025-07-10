@@ -25,13 +25,13 @@ function ContactPage() {
       gmailUrl: 'mailto:sanidhyaagarwal@gmail.com'
     },
       {
-      name: ' Sarthak Gupta',
-      email: 'sarthakgupta.univ@gmail.com',
-      phone: '9962665231',
+      name: ' Ananya Srivastava',
+      email: 'ananyasrivastava402@gmail.com'
+      phone: '9555730915',
       imageUrl: '/assest/sarthak.jpeg.jpg', 
-      instagramUrl: 'https://www.instagram.com/sarthxkgupta/',
-      linkedinUrl: 'https://www.linkedin.com/in/sarthak-gupta-080245215/',
-      gmailUrl: 'mailto:sarthakgupta.univ@gmail.com'
+      instagramUrl: 'https://www.instagram.com/__ananya_sri/',
+      linkedinUrl: 'https://www.linkedin.com/in/ananya-srivastava-764238245/',
+      gmailUrl: 'mailto:ananyasrivastava402@gmail.com'
     },
   ];
 
